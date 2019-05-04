@@ -1,4 +1,4 @@
-package com.a3rd_assign;
+package com.online_clothing;
 
 import android.support.design.widget.TabLayout;
 import android.support.v4.view.ViewPager;

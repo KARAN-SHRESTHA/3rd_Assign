@@ -1,4 +1,4 @@
-package com.a3rd_assign;
+package com.online_clothing;
 
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;

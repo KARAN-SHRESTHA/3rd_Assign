@@ -1,4 +1,4 @@
-package com.a3rd_assign;
+package com.online_clothing;
 
 public class Items {
     private String name;
